@@ -14,8 +14,8 @@ Resolving deltas: 100% (1/1), done.
 [user@host ncsu160]$ 
 ```
 2. Create the project as you would [In Library Manager: File->New->Library]. For sake of consistency, name it as **4-bit-alu**. Use *Attach to an existing technology library* and select the library [NCSU....]. 
-3. After the project is created, there will be a #4#2dbit#2dalu#. Issue the command: ``cp -r ./4-bit-alu/* ./4#2dbit#2dalu/`` 
-4. Check the directory: ls ``./4#2dbit#2dalu/``
+3. After the project is created, there will be a *4#2dbit#2dalu*. Issue the command: ``cp -ar ./4-bit-alu/* ./4#2dbit#2dalu/`` 
+4. Check the directory: ``ls -Al ./4#2dbit#2dalu/`` and make sure that .git is within the directory.
 ```
 [user@host ncsu160]$ ls ./4#2dbit#2dalu/
 and  cdsinfo.tag  data.dm
