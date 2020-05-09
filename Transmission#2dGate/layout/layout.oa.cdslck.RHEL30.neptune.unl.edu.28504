@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      blee13
 HostName                       neptune.unl.edu
-ProcessIdentifier              11340
-ProcessCreationTime_UTC        1588733047
-ProcessCreationTime_Readable   Tue May  5 21:44:07 2020 CDT
+ProcessIdentifier              28504
+ProcessCreationTime_UTC        1588894869
+ProcessCreationTime_Readable   Thu May  7 18:41:09 2020 CDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/blee13/ncsu160/4#2dbit#2dalu/Transmission#2dGate/symbol/symbol.oa.cdslck
-TimeEditLocked                 Tue May  5 21:55:36 2020 CDT
+FilePathUsedToEditLock         /home/blee13/ncsu160/4#2dbit#2dalu#2dblee13/Transmission#2dGate/layout/layout.oa.cdslck
+TimeEditLocked                 Thu May  7 19:37:31 2020 CDT
